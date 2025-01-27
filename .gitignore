@@ -1,2 +1,4 @@
 *.env
 myenv/
+# macOS system files
+.DS_Store
